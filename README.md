@@ -3,3 +3,7 @@ This is the first serious project I built on my own learning the foundation (htm
 
 ## What I used
 I mostly used flexbox to layout everything in this landing page.
+
+### Description
+It is not a rocket science 😜
+But it is a good start 😎
